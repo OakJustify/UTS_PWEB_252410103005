@@ -28,4 +28,4 @@ Aplikasi ini dibuat untuk UTS Pemrograman Web 2026 dengan Laravel 12 dan Blade. 
 
 David Dwi Wahyudi  
 252410103005  
-Kelas A
+Kelas D
